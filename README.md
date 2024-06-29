@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [BankSystem-WinForms](https://github.com/hamzalafsioui/BankSystem-WinForms)
 
-- 🌱 I’m currently learning **Entity Framework Core**
+- 🌱 I’m currently learning **Restful APIs**
 
 - 💬 Ask me about **Dotnet Technology**
 

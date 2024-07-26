@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [DVLD](https://github.com/hamzalafsioui/Driving-License-Management-System)
 
-- 🌱 I’m currently learning **Restful APIs**
+- 🌱 I’m currently learning **Restful APIs & EF Core**
 
 - 💬 Ask me about **Dotnet Technology**
 

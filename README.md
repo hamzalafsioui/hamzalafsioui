@@ -30,7 +30,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/en-us/training/modules/get-started-transact-sql-programming/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/transact-sql-programming.svg" alt="T-SQL" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/training/modules/get-started-transact-sql-programming/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/training/achievements/transact-sql-programming.svg" alt="T-SQL" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="EFCore" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -39,8 +39,9 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzalafsioui&show_icons=true&locale=en&layout=compact" alt="hamzalafsioui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzalafsioui&show_icons=true&locale=en&layout=compact&bg_color=242422&text_color=ffffff" alt="hamzalafsioui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&show_icons=true&locale=en" alt="hamzalafsioui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&show_icons=true&locale=en&bg_color=242422&text_color=ffffff" alt="hamzalafsioui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalafsioui&" alt="hamzalafsioui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalafsioui&theme=default&background=242422&text_color=ffffff&ring_color=fb8c00&fire=fb8c00&sideNums=fb8c00&currStreakNum=fb8c00&sideLabels=fb8c00&currStreakLabel=fb8c00" alt="hamzalafsioui" /></p>
+

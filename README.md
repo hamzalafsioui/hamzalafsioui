@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&show_icons=true&locale=en&bg_color=242422&text_color=ffffff" alt="hamzalafsioui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalafsioui&background=242422&border=242422&ring=fb8c00&fire=fb8c00&currStreakNum=fb8c00&sideNums=fb8c00&currStreakLabel=fb8c00&sideLabels=fb8c00&dates=ffffff" alt="hamzalafsioui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzalafsioui&background=242422&border=ffffff&ring=fb8c00&fire=fb8c00&currStreakNum=fb8c00&sideNums=fb8c00&currStreakLabel=fb8c00&sideLabels=fb8c00&dates=ffffff" alt="hamzalafsioui" /></p>

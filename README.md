@@ -26,7 +26,7 @@
 
 🔭 I’m currently working on [Event-Management-API](https://github.com/hamzalafsioui/Event-Management-API)  
 
-🌱 I’m currently learning **Restful APIs & EF Core**  
+🌱 I’m currently learning **Typescript & React**  
 
 💬 Ask me about **Dotnet Technology**  
 
@@ -35,22 +35,22 @@
 ---
 
 ## 🚀 Languages and Tools:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/-T--SQL-00758F?style=flat)
-![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/-Entity_Framework_Core-6C3483?style=flat&logo=.net&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Windows Services](https://img.shields.io/badge/-Windows_Services-0078D7?style=flat)
+![Windows Services](https://img.shields.io/badge/Windows%20Services-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -63,4 +63,10 @@
 <a href="https://www.leetcode.com/hamzalafsioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzalafsioui" height="30" width="40" /></a>
 </p>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzalafsioui/hamzalafsioui/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzalafsioui/hamzalafsioui/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzalafsioui/hamzalafsioui/output/github-snake.svg" />
+</picture>
 

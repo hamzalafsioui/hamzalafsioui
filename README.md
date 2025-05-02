@@ -10,15 +10,6 @@
   </a> 
 </p>
 
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzalafsioui&theme=tokyonight)  
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzalafsioui&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzalafsioui&theme=tokyonight)  
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1)
 
 ---
 
@@ -62,6 +53,16 @@
 <a href="https://instagram.com/mrlafsioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrlafsioui" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hamzalafsioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamzalafsioui" height="30" width="40" /></a>
 </p>
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzalafsioui&theme=tokyonight)  
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzalafsioui&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzalafsioui&theme=tokyonight)  
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1)
 
 ---
 <picture>

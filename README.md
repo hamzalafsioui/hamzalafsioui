@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-🔭 Currently working on **[Event Management API](https://github.com/hamzalafsioui/Event-Management-API)**  
+🔭 Currently working on **[DBMS_API](https://github.com/hamzalafsioui/DBMS_API)**  
 
 🌱 Currently learning **React**  
 

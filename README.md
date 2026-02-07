@@ -116,7 +116,11 @@ Windows Forms application managing local/international driving licenses, test sc
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+    <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
 </p>
+
+
 
 ### 📈 Contribution Activity
 

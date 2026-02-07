@@ -102,7 +102,6 @@ Windows Forms application managing local/international driving licenses, test sc
 - **React + TypeScript** for modern frontend development
 - System design & distributed systems architecture
 - Advanced database optimization & query performance
-
 ---
 
 ## 📊 GitHub Statistics
@@ -119,8 +118,11 @@ Windows Forms application managing local/international driving licenses, test sc
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
----
+### 📈 Contribution Activity
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=hamzalafsioui&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hamzalafsioui)
+
+---
 ## 🤝 Connect with Me
 
 <p align="left">

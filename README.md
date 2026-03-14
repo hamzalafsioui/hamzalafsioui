@@ -106,28 +106,35 @@ Windows Forms application managing local/international driving licenses, test sc
 
 ## 📊 GitHub Statistics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzalafsioui&theme=tokyonight)
-
+<!-- 1 -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzalafsioui&theme=tokyonight" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzalafsioui&theme=tokyonight" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzalafsioui&theme=tokyonight"/>
 </p>
 
+<!-- 2 -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight" alt="Stats" />
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzalafsioui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-    <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamzalafsioui&theme=tokyonight" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzalafsioui&theme=tokyonight" height="150"/>
 </p>
 
+<!-- 2 -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+</p>
 
+<!-- 2 -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150"/>
+</p>
 
 ### 📈 Contribution Activity
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=hamzalafsioui&theme=tokyo-night&hide_border=true&area=true)](https://github.com/hamzalafsioui)
+<!-- 1 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzalafsioui&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 ## 🤝 Connect with Me

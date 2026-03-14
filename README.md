@@ -120,13 +120,13 @@ Windows Forms application managing local/international driving licenses, test sc
 <!-- 2 -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamzalafsioui&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzalafsioui&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="150"/>
 </p>
 
 <!-- 2 -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamzalafsioui&theme=tokyonight&utcOffset=1" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150"/>
 </p>
 
 ### 📈 Contribution Activity

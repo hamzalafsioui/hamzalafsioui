@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-🔭 Currently working on **[DBMS_API](https://github.com/hamzalafsioui/DBMS_API)** & **[Jolly_Jobs](https://github.com/hamzalafsioui/Jolly_Jobs)**
+🔭 Currently working on **[DBMS_API](https://github.com/hamzalafsioui/DBMS_API)** 
 
 🌱 Currently learning **React**  
 

@@ -131,12 +131,12 @@ Windows Forms application managing local/international driving licenses, test sc
   <img src="https://streak-stats.demolab.com?user=hamzalafsioui&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150"/>
 </p>
 
-### 📈 Contribution Activity
+
 
 <!-- 1 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzalafsioui&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+</p> -->
 
 ---
 ## 🤝 Connect with Me

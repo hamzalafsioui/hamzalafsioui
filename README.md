@@ -19,7 +19,7 @@
 
 🔭 Currently working on **[DBMS_API](https://github.com/hamzalafsioui/DBMS_API)** 
 
-🌱 Currently learning **React**  
+🌱 Currently learning **React Native**  
 
 💬 Ask me about **.NET, ASP.NET Core, Clean Architecture, and API Design**  
 

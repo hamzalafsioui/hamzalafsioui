@@ -32,7 +32,7 @@
 ### 🔹 [Event Management API](https://github.com/hamzalafsioui/Event-Management-API)
 **Production-ready event platform with advanced features**  
 Built with ASP.NET Core 8, featuring JWT authentication, CQRS pattern with MediatR, FluentValidation, and AutoMapper. Includes role-based access control, email notifications, and comprehensive logging with Serilog.  
-**Tech:** .NET 8 · Entity Framework Core · SQL Server · Clean Architecture · CQRS  
+**Tech:** .NET 8 · Entity Framework Core · SQL Server · Clean Architecture · CQRS  · Docker  · Redis  
 🔗 [Live Demo](https://eventmanagementapi.runasp.net/swagger/index.html)
 
 ### 🔹 [BuyMatch](https://github.com/hamzalafsioui/BuyMatch)
@@ -78,6 +78,7 @@ Windows Forms application managing local/international driving licenses, test sc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)

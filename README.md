@@ -1,6 +1,6 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://hamzalafsioui.io)
 <h1 align="center">Hi 👋, I'm LAFSIOUI Hamza</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+<h3 align="center">Full Stack Developer | Building fast, scalable & user focused applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalafsioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalafsioui" /> </p>
 
@@ -171,7 +171,7 @@ Windows Forms application managing local/international driving licenses, test sc
 
 > *"Clean code is not written by following rules.  
 > Clean code is written by developers who care."*  
-> — Robert C. Martin
+> - Robert C. Martin
 
 ---
 

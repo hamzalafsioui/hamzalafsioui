@@ -1,4 +1,7 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://hamzalafsioui.io)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" width="100%" alt="Banner"/>
+</p>
 <h1 align="center">Building Software Humans Trust & AI Understands.</h1>
 <h3 align="center">Backend Engineering • APIs • Intelligent Systems</h3>
 

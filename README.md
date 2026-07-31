@@ -1,6 +1,6 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://hamzalafsioui.io)
-<h1 align="center">Hi 👋, I'm LAFSIOUI Hamza</h1>
-<h3 align="center">Full Stack Developer | Building fast, scalable & user focused applications</h3>
+<h1 align="center">Building Software Humans Trust & AI Understands.</h1>
+<h3 align="center">Backend Engineering • APIs • Intelligent Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalafsioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalafsioui" /> </p>
 

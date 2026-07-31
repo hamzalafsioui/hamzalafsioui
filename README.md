@@ -6,6 +6,12 @@
 <h3 align="center">Backend Engineering • APIs • Intelligent Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalafsioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalafsioui" /> </p>
+<a href="https://www.linkedin.com/in/hamzalafsioui">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Hamza%20Lafsioui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
 
 ---
 

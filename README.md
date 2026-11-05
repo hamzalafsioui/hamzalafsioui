@@ -5,6 +5,12 @@
 <h1 align="center">Building Software Humans Trust & AI Understands.</h1>
 <h3 align="center">Backend Engineering • APIs • Intelligent Systems</h3>
 
+<p align="center">
+  <a href="https://hamzalafsioui.com">
+    🌐 Visit My Portfolio
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalafsioui&label=Profile%20views&color=0e75b6&style=flat" alt="hamzalafsioui" /> </p>
 <a href="https://www.linkedin.com/in/hamzalafsioui">
   <img 

@@ -44,6 +44,16 @@
 
 ## ⭐ Featured Projects
 
+### 🔹 [DeliveryETA](https://github.com/hamzalafsioui/DeliveryETA)
+**Machine learning platform for predicting food delivery time**  
+Regression model that estimates delivery time from rider, route, weather, traffic, order, vehicle, city, and time-related factors to improve customer ETAs and courier planning.  
+**Tech:** Python · Pandas · Scikit-learn · Jupyter Notebook · Machine Learning
+
+### 🔹 [NeuroVision](https://github.com/hamzalafsioui/NeuroVision)
+**Multimodal AI brain tumor diagnostic platform**  
+End-to-end medical deep learning system for brain tumor classification and lesion localization from axial MRI scans, with a Streamlit workstation, FastAPI serving, MLflow tracking, and Airflow orchestration.  
+**Tech:** Python · TensorFlow · InceptionV3 · YOLOv8 · FastAPI · Streamlit · MLflow · Apache Airflow · Docker
+
 ### 🔹 [Event Management API](https://github.com/hamzalafsioui/Event-Management-API)
 **Production-ready event platform with advanced features**  
 Built with ASP.NET Core 8, featuring JWT authentication, CQRS pattern with MediatR, FluentValidation, and AutoMapper. Includes role-based access control, email notifications, and comprehensive logging with Serilog.  
